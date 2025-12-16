@@ -69,7 +69,7 @@ VITE_API_URL=http://localhost:5000/api
 VITE_STREAM_API_KEY=your-stream-api-key
 ```
 
-> **Note:** Get your Stream API keys from [getstream.io](https://getstream.io/)
+
 
 ---
 
